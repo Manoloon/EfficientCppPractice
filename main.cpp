@@ -4,9 +4,10 @@
 #include <iostream>
 #include <chrono>
 #include <thread>
+#include <algorithm>
 #include <vector>
 #include <string>
-#include "clocks.h"
+
 
 bool Compare(const char* s1, const char* s2,unsigned int l)
 {
@@ -36,6 +37,5 @@ int main()
 	std::chrono::system_clock::time_point t2 = std::chrono::system_clock::now();
 	std::cout << "Sort time: " << std::chrono::duration_cast<std::chrono::milliseconds>(t2 -t1).count() << "ms (" << count << " comparisons)" << std::endl;
 
-	clock_test();
 	return 0;
 }
