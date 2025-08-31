@@ -13,9 +13,9 @@
 },
 {
   "directory": "C:/Coding/cpp/EfficientCppPractice/build",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\micro-benchmark.dir\\benchmark\\micro-benchmark.cpp.obj -c C:\\Coding\\cpp\\EfficientCppPractice\\benchmark\\micro-benchmark.cpp",
-  "file": "C:/Coding/cpp/EfficientCppPractice/benchmark/micro-benchmark.cpp",
-  "output": "CMakeFiles/micro-benchmark.dir/benchmark/micro-benchmark.cpp.obj"
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\memory.dir\\benchmark\\memory.cpp.obj -c C:\\Coding\\cpp\\EfficientCppPractice\\benchmark\\memory.cpp",
+  "file": "C:/Coding/cpp/EfficientCppPractice/benchmark/memory.cpp",
+  "output": "CMakeFiles/memory.dir/benchmark/memory.cpp.obj"
 },
 {
   "directory": "C:/Coding/cpp/EfficientCppPractice/build",
