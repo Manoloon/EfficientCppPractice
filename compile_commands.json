@@ -22,5 +22,11 @@
   "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\branchless.dir\\benchmark\\branchless.cpp.obj -c C:\\Coding\\cpp\\EfficientCppPractice\\benchmark\\branchless.cpp",
   "file": "C:/Coding/cpp/EfficientCppPractice/benchmark/branchless.cpp",
   "output": "CMakeFiles/branchless.dir/benchmark/branchless.cpp.obj"
+},
+{
+  "directory": "C:/Coding/cpp/EfficientCppPractice/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\concurrency.dir\\benchmark\\concurrency.cpp.obj -c C:\\Coding\\cpp\\EfficientCppPractice\\benchmark\\concurrency.cpp",
+  "file": "C:/Coding/cpp/EfficientCppPractice/benchmark/concurrency.cpp",
+  "output": "CMakeFiles/concurrency.dir/benchmark/concurrency.cpp.obj"
 }
 ]
